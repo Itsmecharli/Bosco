@@ -1,6 +1,6 @@
 /* 
 Don't change credits🥲🚶
-Sourcecode 𝑴𝑨𝑮𝑰𝑪 𝑺𝑷𝑬𝑳𝑳
+Sourcecode https://github.com/pepesir/Bosco
 
 Want to recode? yes, it's up to you as long as you don't change the watermark
 Don't sell the SC 😐👌
