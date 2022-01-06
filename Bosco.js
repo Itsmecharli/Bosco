@@ -374,7 +374,7 @@ module.exports = bosco = async (bosco, mek) => {
 	               },
 	              message: {
 		               "groupInviteMessage": {
-			               "groupJid": "𝑀𝐴𝐺𝐼𝐶 𝑆𝑃𝐸𝐿𝐿",
+			               "groupJid": "6288213840883-1616169743@g.us",
 			               "inviteCode": "mememteeeekkeke",
 			               "groupName": ".bot", 
                            "caption": `𝑪𝑴𝑫 𝑬𝑿𝑪𝑳𝑼𝑫𝑬𝑫 : \n 𝑵𝑬𝑾 𝑭𝑬𝑼𝑻𝑬𝑹𝑺 𝑨𝑫𝑫𝑬𝑫 \n 𝑴𝑨𝑫𝑬 𝑩𝒀 𝑷𝑬𝑷𝑬 𝑺𝑰𝑹`, 
@@ -389,7 +389,7 @@ const ftex = {
 	 key: { 
           fromMe: false,
 	      participant: `0@s.whatsapp.net`, ...(from ? 
-	 { remoteJid: "𝑀𝐴𝐺𝐼𝐶 𝑆𝑃𝐸𝐿𝐿" } : {}) 
+	 { remoteJid: "6288213840883-1616169743@g.us" } : {}) 
                 },
 	 message: { 
 		"extendedTextMessage": {
