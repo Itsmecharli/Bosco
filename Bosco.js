@@ -292,7 +292,7 @@ module.exports = bosco = async (bosco, mek) => {
             return Math.floor(Math.random() * angka) + 1
         }
         const reply = (teks) => {
-	      bosco.sendMessage(from, teks, text, { thumbnail: denis, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: false, "externalAdReply": { "title": `${' '}Sᴜʙsᴄʀɪʙᴇ Yᴛ : PEPE SIR${''}${''}`, "body": `Gʀᴏᴜᴘ Assɪsᴛᴇɴᴛ Bᴏᴛ`, "previewType": 'PHOTO', "thumbnailUrl": `${''}`, "thumbnail": denis, "sourceUrl": `${''}`}},})
+	      bosco.sendMessage(from, teks, text, { thumbnail: denis, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: false, "externalAdReply": { "title": `${' '}𖠗 ⃝⃕𝐵͢𝐸𝐴𝑈͢𝑇𝐼𝐹𝑈͢𝐿 𝑀𝐸͢𝐷𝐼𝐴𖠗 ⃝⃕🌸᭄${''}${''}`, "body": `Gʀᴏᴜᴘ Assɪsᴛᴇɴᴛ Bᴏᴛ`, "previewType": 'PHOTO', "thumbnailUrl": `${''}`, "thumbnail": denis, "sourceUrl": `${''}`}},})
         }
         const sendMess = (hehe, teks) => {
            bosco.sendMessage(hehe, teks, text)
@@ -660,7 +660,7 @@ const ftrol = {
            if(mime.split("/")[0] === "audio"){
            mime = Mimetype.mp4Audio
 }
-           bosco.sendMessage(to, media, type, {quoted: mek, "externalAdReply": { "title": `${' '}Sᴜʙsᴄʀɪʙᴇ Yᴛ : PEPE SIR${''}${''}`, "body": `Gʀᴏᴜᴘ Assɪsᴛᴇɴᴛ Bᴏᴛ`, "previewType": 'PHOTO', "thumbnailUrl": `${''}`, "thumbnail": denis, "sourceUrl": `${''}`}, mimetype: mime, caption: text, thumbnail: Buffer.alloc(0), contextInfo: {"mentionedJid": mids}})
+           bosco.sendMessage(to, media, type, {quoted: mek, "externalAdReply": { "title": `${' '}𖠗 ⃝⃕𝐵͢𝐸𝐴𝑈͢𝑇𝐼𝐹𝑈͢𝐿 𝑀𝐸͢𝐷𝐼𝐴𖠗 ⃝⃕🌸᭄${''}${''}`, "body": `Gʀᴏᴜᴘ Assɪsᴛᴇɴᴛ Bᴏᴛ`, "previewType": 'PHOTO', "thumbnailUrl": `${''}`, "thumbnail": denis, "sourceUrl": `${''}`}, mimetype: mime, caption: text, thumbnail: Buffer.alloc(0), contextInfo: {"mentionedJid": mids}})
                      
            fs.unlinkSync(filename)
 });
